@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @rayhanrizaldii
+- 👋 Hi, I’m rayhanrizaldii
 - 👀 I’m interested in web development programming
 - 🌱 I’m currently learning reactjs, expressjs,and nodejs
